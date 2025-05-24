@@ -10,4 +10,4 @@ A simple **Netflix Clone** built using only **HTML** and **CSS**. This project r
 - Mobile-friendly design
 - Clean and modern UI
 - preview
-- ![127 0 0 1_3004_netflix html](https://github.com/user-attachments/assets/d9b98c65-50a0-4b50-af5d-ed96244eb18b)
+- ![127 0 0 1_3002_netflix html (4)](https://github.com/user-attachments/assets/8a337b2a-0576-4f11-9715-b6f9cc8ad15c)
