@@ -9,3 +9,5 @@ A simple **Netflix Clone** built using only **HTML** and **CSS**. This project r
 - Netflix-style header and hero section
 - Mobile-friendly design
 - Clean and modern UI
+- preview
+- ![127 0 0 1_3004_netflix html](https://github.com/user-attachments/assets/d9b98c65-50a0-4b50-af5d-ed96244eb18b)
