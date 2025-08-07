@@ -11,4 +11,4 @@ A simple **Netflix Clone** built using only **HTML** and **CSS**. This project r
 - Clean and modern UI
 - preview (Click here 👇)
 - 
-  https://scintillating-babka-8fe831.netlify.app/
+ [Netflix Clone]("https://scintillating-babka-8fe831.netlify.app/")
